@@ -1,5 +1,5 @@
 {
-  "name": "skeleton",
+  "name": "forms",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.tsx",
@@ -10,11 +10,11 @@
     "types": "tsc",
     "test": "npm run lint && npm run types"
   },
-  "author": "Jubic Oy",
+  "author": "Joonatan Peltonen",
   "license": "UNLICENSED",
   "devDependencies": {
     "react-hot-loader": "4.12.11",
-    "webpack-dev-server": "3.7.1"
+    "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
     "@babel/core": "7.5.5",

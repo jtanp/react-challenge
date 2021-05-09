@@ -3,9 +3,6 @@ import ReactDOM from 'react-dom'
 
 import { App } from './components'
 
-import 'material-icons'
-import 'typeface-roboto'
-
 import './index.less'
 
 const mount = document.getElementById('mount')

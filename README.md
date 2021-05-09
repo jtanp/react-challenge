@@ -1,12 +1,11 @@
-# Jubic Oy | React challenge
+# React challenge
 
-This repository contains a starting point and mockup for frontend developers applying to Jubic.
+React challenge for Jubic that saves form information to localStorage using Redux. Forms can be deleted from localStorage and details popup shows more all form information.
 
-## UI Mockup
+## Frontpage
 
-![UI Mockup](frontend_challenge_v1.png)
+![frontpage](frontpage.png)
 
+## Form details popup
 
-## Documentation
-* https://www.typescriptlang.org/
-* https://redux.js.org/introduction
+![popup](form_details_popup.png)
